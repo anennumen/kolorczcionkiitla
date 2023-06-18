@@ -1,12 +1,32 @@
 h1{
     color: blue;
+    background-color: paleturquoise;
 }
-h1{
-    color: blueviolet;
+h2{
+    color: olivedrab;
+    background-color: midnightblue;
 }
+
 p{
     color: aquamarine;
+    background-color: fuchsia;
 }
 p.drugi{
+    background-color: grey;
     color: chartreuse;
 }
+ol{
+    color: blueviolet;
+    background-color: orange;
+}
+li{
+    color: red;
+    background-color: hotpink;
+    
+}
+
+
+
+
+
+ 
